@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>第一篇博客</title>
+    <url>/2022/09/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h4 id="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"><a href="#换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。" class="headerlink" title="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"></a>换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。</h4>]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>SPA的理解</title>
     <url>/2022/09/07/SPA%E7%9A%84%E7%90%86%E8%A7%A3/</url>
     <content><![CDATA[<h2 id="一、什么是SPA"><a href="#一、什么是SPA" class="headerlink" title="一、什么是SPA"></a>一、什么是SPA</h2><p>SPA（single-page application），翻译过来就是单页应用SPA是一种网络应用程序或网站的模型，它通过动态重写当前页面来与用户交互，这种方法避免了页面之间切换打断用户体验在单页应用中，所有必要的代码（HTML、JavaScript和CSS）都通过单个页面的加载而检索，或者根据需要（通常是为响应用户操作）动态装载适当的资源并添加到页面页面在任何时间点都不会重新加载，也不会将控制转移到其他页面。</p>
@@ -70,17 +81,6 @@
       </categories>
       <tags>
         <tag>Vue</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>第一篇博客</title>
-    <url>/2022/09/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h4 id="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"><a href="#换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。" class="headerlink" title="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"></a>换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。</h4>]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
       </tags>
   </entry>
 </search>
