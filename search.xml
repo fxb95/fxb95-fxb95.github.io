@@ -1,6 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>DOM</title>
+    <url>/2022/09/13/DOM/</url>
+    <content><![CDATA[<p>getElementById 方法 ，访问 HTML 元素最常用的方法是使用元素的 id。<br>innerHTML 属性 获取元素内容最简单的方法是使用 innerHTML 属性。</p>
+<div>
+<h2>查找 HTML 元素</h2>
+
+<table class="dataintable">
+<tbody><tr>
+<th style="width:60%;">方法</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>document.getElementById(<i>id</i>)</td>
+<td>通过元素 id 来查找元素</td>
+</tr>
+
+<tr>
+<td>document.getElementsByTagName(<i>name</i>)</td>
+<td>通过标签名来查找元素</td>
+</tr>
+
+<tr>
+<td>document.getElementsByClassName(<i>name</i>)</td>
+<td>通过类名来查找元素</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<h2>改变 HTML 元素</h2>
+
+<table class="dataintable">
+<tbody><tr>
+<th style="width:60%;">方法</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>element.innerHTML =  <i>new html content</i></td>
+<td>改变元素的 inner HTML</td>
+</tr>
+
+<tr>
+<td>element.attribute = <i>new value</i></td>
+<td>改变 HTML 元素的属性值</td>
+</tr>
+
+<tr>
+<td>element.setAttribute(<i>attribute</i>, <i>value</i>)</td>
+<td>改变 HTML 元素的属性值</td>
+</tr>
+
+<tr>
+<td>element.style.property = <i>new style</i></td>
+<td>改变 HTML 元素的样式</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<h2>添加和删除元素</h2>
+
+<table class="dataintable">
+<tbody><tr>
+<th style="width:60%;">方法</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>document.createElement(<i>element</i>)</td>
+<td>创建 HTML 元素</td>
+</tr>
+
+<tr>
+<td>document.removeChild(<i>element</i>)</td>
+<td>删除 HTML 元素</td>
+</tr>
+
+<tr>
+<td>document.appendChild(<i>element</i>)</td>
+<td>添加 HTML 元素</td>
+</tr>
+
+<tr>
+<td>document.replaceChild(<i>element</i>)</td>
+<td>替换 HTML 元素</td>
+</tr>
+
+<tr>
+<td>document.write(<i>text</i>)</td>
+<td>写入 HTML 输出流</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<h2>添加事件处理程序</h2>
+
+<table class="dataintable">
+<tbody><tr>
+<th style="width:60%;">方法</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>document.getElementById(id).onclick = function(){<i>code</i>}</td>
+<td>向 onclick 事件添加事件处理程序</td>
+</tr>
+</tbody></table>
+</div>
+
+
+
+
+
+
+<h3 id="通过-id-查找-HTML-元素"><a href="#通过-id-查找-HTML-元素" class="headerlink" title="通过 id 查找 HTML 元素"></a>通过 id 查找 HTML 元素</h3><p>DOM 中查找 HTML 元素最简单的方法是，使用元素的 id。<br><code>var myElement = document.getElementById(&quot;intro&quot;);</code></p>
+<h3 id="通过标签名查找-HTML-元素"><a href="#通过标签名查找-HTML-元素" class="headerlink" title="通过标签名查找 HTML 元素"></a>通过标签名查找 HTML 元素</h3><p><code>var x = document.getElementsByTagName(&quot;p&quot;);</code></p>
+<h3 id="通过类名查找-HTML-元素"><a href="#通过类名查找-HTML-元素" class="headerlink" title="通过类名查找 HTML 元素"></a>通过类名查找 HTML 元素</h3><p><code>var x = document.getElementsByClassName(&quot;intro&quot;);</code></p>
+<h3 id="通过-CSS-选择器查找-HTML-元素"><a href="#通过-CSS-选择器查找-HTML-元素" class="headerlink" title="通过 CSS 选择器查找 HTML 元素"></a>通过 CSS 选择器查找 HTML 元素</h3><p><code>var x = document.querySelectorAll(&quot;p.intro&quot;);</code></p>
+<h3 id="改变-HTML-输出流"><a href="#改变-HTML-输出流" class="headerlink" title="改变 HTML 输出流"></a>改变 HTML 输出流</h3><p>JavaScript 能够创建动态 HTML 内容：<br><code>document.write(Date())</code></p>
+<h3 id="改变-HTML-内容"><a href="#改变-HTML-内容" class="headerlink" title="改变 HTML 内容"></a>改变 HTML 内容</h3><p><code>document.getElementById(id).innerHTML = new text</code></p>
+<h3 id="改变属性的值"><a href="#改变属性的值" class="headerlink" title="改变属性的值"></a>改变属性的值</h3><p><code>document.getElementById(id).attribute = new value</code></p>
+<div>
+<h2>约束验证 HTML input 属性</h2>
+
+<table class="dataintable">
+<tbody><tr>
+<th style="width: 25%;">属性</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>disabled</td>
+<td>规定应禁用 input 元素。</td>
+</tr>
+
+<tr>
+<td>max</td>
+<td>规定 input 元素的最大值。</td>
+</tr>
+
+<tr>
+<td>min</td>
+<td>规定 input 元素的最小值。</td>
+</tr>
+
+<tr>
+<td>pattern</td>
+<td>规定 input 元素的值模式。</td>
+</tr>
+
+<tr>
+<td>required</td>
+<td>规定 input 字段必填。</td>
+</tr>
+
+<tr>
+<td>type</td>
+<td>规定 input 元素的类型。</td>
+</tr>
+</tbody></table>
+
+<p>如需完整列表，请访问 <a href="/html/html_form_attributes.asp" title="HTML Input 属性">HTML Input 属性</a>。</p>
+</div>
+
+
+<h3 id="改变-HTML-样式"><a href="#改变-HTML-样式" class="headerlink" title="改变 HTML 样式"></a>改变 HTML 样式</h3><p><code>document.getElementById(&quot;p2&quot;).style.color = &quot;blue&quot;;</code></p>
+<h3 id="创建新-HTML-元素（节点）"><a href="#创建新-HTML-元素（节点）" class="headerlink" title="创建新 HTML 元素（节点）"></a>创建新 HTML 元素（节点）</h3><p><code>var para = document.createElement(&quot;p&quot;);</code><br><code>var node = document.createTextNode(&quot;这是一个新段落。&quot;);</code></p>
+<h3 id="增加元素"><a href="#增加元素" class="headerlink" title="增加元素"></a>增加元素</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;script&gt;</span><br><span class="line">var para = document.createElement(&quot;p&quot;);</span><br><span class="line">var node = document.createTextNode(&quot;这是新文本。&quot;);</span><br><span class="line">para.appendChild(node);  //添加在后面</span><br><span class="line"></span><br><span class="line">var element = document.getElementById(&quot;div1&quot;);</span><br><span class="line">var child = document.getElementById(&quot;p1&quot;);</span><br><span class="line">element.insertBefore(para, child); //添加在前面</span><br><span class="line">&lt;/script&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="删除已有-HTML-元素"><a href="#删除已有-HTML-元素" class="headerlink" title="删除已有 HTML 元素"></a>删除已有 HTML 元素</h3><p><code>const elmnt = document.getElementById(&quot;p1&quot;); </code><br><code>elmnt.remove();</code></p>
+<p>找到要删除的子节点，并使用其 <code>parentNode</code> 属性找到父节点：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">const child = document.getElementById(&quot;p1&quot;);</span><br><span class="line">child.parentNode.removeChild(child);</span><br></pre></td></tr></table></figure>
+<h3 id="替换-HTML-元素"><a href="#替换-HTML-元素" class="headerlink" title="替换 HTML 元素"></a>替换 HTML 元素</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var parent = document.getElementById(&quot;div1&quot;);</span><br><span class="line">var child = document.getElementById(&quot;p1&quot;);</span><br><span class="line">parent.replaceChild(para, child);</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>DOM</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HTML5知识记录</title>
     <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<p>标签 	描述</p>
@@ -10,6 +191,42 @@
       </categories>
       <tags>
         <tag>HTML5</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>JSON记忆</title>
+    <url>/2022/09/13/LESS%E7%94%A8%E6%B3%95/</url>
+    <content><![CDATA[<h3 id="JSON-数据类型"><a href="#JSON-数据类型" class="headerlink" title="JSON 数据类型"></a>JSON 数据类型</h3><h4 id="有效的数据类型"><a href="#有效的数据类型" class="headerlink" title="有效的数据类型"></a>有效的数据类型</h4><p>在 JSON 中，值必须是以下数据类型之一：</p>
+<pre><code>字符串
+数字
+对象（JSON 对象）
+数组
+布尔
+Null
+</code></pre>
+<p>JSON 的值不可以是以下数据类型之一：</p>
+<pre><code>函数
+日期
+undefined
+</code></pre>
+<h2 id="JSON-parse"><a href="#JSON-parse" class="headerlink" title="JSON.parse()"></a>JSON.parse()</h2><h4 id=""><a href="#" class="headerlink" title=""></a></h4><p>JSON 的常规用途是同 web 服务器进行数据传输。</p>
+<p>在从 web 服务器接收数据时，数据永远是字符串。</p>
+<p>通过 JSON.parse() 解析数据，这些数据会成为 JavaScript 对象。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&#x27;&#123; &quot;name&quot;:&quot;Bill Gates&quot;, &quot;age&quot;:62, &quot;city&quot;:&quot;Seattle&quot;&#125;&#x27;</span><br></pre></td></tr></table></figure>
+<p>转换成对象</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var obj = JSON.parse(&#x27;&#123; &quot;name&quot;:&quot;Bill Gates&quot;, &quot;age&quot;:62, &quot;city&quot;:&quot;Seattle&quot;&#125;&#x27;);</span><br></pre></td></tr></table></figure>
+
+<h2 id="JSON-stringify"><a href="#JSON-stringify" class="headerlink" title="JSON.stringify()"></a>JSON.stringify()</h2><p>JSON 的常规用途是同 web 服务器进行数据交换。</p>
+<p>在向 web 服务器发送数据时，数据必须是字符串。</p>
+<p>通过 JSON.stringify() 把 JavaScript 对象转换为字符串。</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">var obj = &#123; name:&quot;Bill Gates&quot;, age:62, city:&quot;Seattle&quot;&#125;;</span><br><span class="line">var myJSON = JSON.stringify(obj);</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>JSON</category>
+      </categories>
+      <tags>
+        <tag>前端</tag>
       </tags>
   </entry>
   <entry>
