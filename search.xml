@@ -182,6 +182,18 @@
       </tags>
   </entry>
   <entry>
+    <title>HTML5知识记录</title>
+    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>标签 	描述</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>前端基础</category>
+      </categories>
+      <tags>
+        <tag>HTML5</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>JSON记忆</title>
     <url>/2022/09/13/LESS%E7%94%A8%E6%B3%95/</url>
     <content><![CDATA[<h3 id="JSON-数据类型"><a href="#JSON-数据类型" class="headerlink" title="JSON 数据类型"></a>JSON 数据类型</h3><h4 id="有效的数据类型"><a href="#有效的数据类型" class="headerlink" title="有效的数据类型"></a>有效的数据类型</h4><p>在 JSON 中，值必须是以下数据类型之一：</p>
@@ -215,18 +227,6 @@ undefined
       </categories>
       <tags>
         <tag>前端</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HTML5知识记录</title>
-    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p>标签 	描述</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>前端基础</category>
-      </categories>
-      <tags>
-        <tag>HTML5</tag>
       </tags>
   </entry>
   <entry>
@@ -331,6 +331,168 @@ undefined
       </categories>
       <tags>
         <tag>Vue,面试题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>JavaScript</title>
+    <url>/2022/09/14/js/</url>
+    <content><![CDATA[<h3 id="JavaScript-显示方案"><a href="#JavaScript-显示方案" class="headerlink" title="JavaScript 显示方案"></a>JavaScript 显示方案</h3><p>JavaScript 能够以不同方式”显示”数据：</p>
+<ul>
+<li>使用<code>window.alert()</code> 写入警告框</li>
+<li>使用<code>document.write()</code> 写入HTML输出</li>
+<li>使用<code>innderHTML</code>  写入HTMl元素</li>
+<li>使用<code>console.log()</code> 写入浏览器控制台</li>
+</ul>
+<h2>JavaScript 关键词</h2>
+
+<p>JavaScript 语句常常通过某个关键词来标识需要执行的 JavaScript 动作。</p>
+
+<p>下面的表格列出了一部分将在教程中学到的关键词：</p>
+
+<table class="dataintable">
+<tbody><tr>
+<th>关键词</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>break</td>
+<td>终止 switch 或循环。</td>
+</tr>
+
+<tr>
+<td>continue</td>
+<td>跳出循环并在顶端开始。</td>
+</tr>
+
+<tr>
+<td>debugger</td>
+<td>停止执行 JavaScript，并调用调试函数（如果可用）。</td>
+</tr>
+
+<tr>
+<td>do ... while</td>
+<td>执行语句块，并在条件为真时重复代码块。</td>
+</tr>
+
+<tr>
+<td>for</td>
+<td>标记需被执行的语句块，只要条件为真。</td>
+</tr>
+
+<tr>
+<td>function</td>
+<td>声明函数。</td>
+</tr>
+
+<tr>
+<td>if ... else</td>
+<td>标记需被执行的语句块，根据某个条件。</td>
+</tr>
+
+<tr>
+<td>return</td>
+<td>退出函数。</td>
+</tr>
+
+<tr>
+<td>switch</td>
+<td>标记需被执行的语句块，根据不同的情况。</td>
+</tr>
+
+<tr>
+<td>try ... catch</td>
+<td>对语句块实现错误处理。</td>
+</tr>
+
+<tr>
+<td>var</td>
+<td>声明变量。</td>
+</tr>
+</tbody></table>
+
+<p class="note"><span>注释：</span>JavaScript 关键词指的是保留的单词。保留词无法用作变量名。</p>
+
+
+<h3 id="JavaScript-数据类型"><a href="#JavaScript-数据类型" class="headerlink" title="JavaScript 数据类型"></a>JavaScript 数据类型</h3><p>字符串值，数值，布尔值，数组，对象</p>
+<h2>常见的 HTML 事件</h2>
+
+<p>下面是一些常见的 HTML 事件：</p>
+
+<table class="dataintable">
+<tbody><tr>
+<th>事件</th>
+<th>描述</th>
+</tr>
+
+<tr>
+<td>onchange</td>
+<td>HTML 元素已被改变</td>
+</tr>
+
+<tr>
+<td>onclick</td>
+<td>用户点击了 HTML 元素</td>
+</tr>
+
+<tr>
+<td>onmouseover</td>
+<td>用户把鼠标移动到 HTML 元素上</td>
+</tr>
+
+<tr>
+<td>onmouseout</td>
+<td>用户把鼠标移开 HTML 元素</td>
+</tr>
+
+<tr>
+<td>onkeydown</td>
+<td>用户按下键盘按键</td>
+</tr>
+
+<tr>
+<td>onload</td>
+<td>浏览器已经完成页面加载</td>
+</tr>
+</tbody></table>
+
+<p>更完整的列表：<a href="/jsref/dom_obj_event.asp" title="HTML DOM Event 对象">W3School JavaScript 参考手册 HTML DOM 事件</a>。</p>
+
+<h3 id="字符串方法"><a href="#字符串方法" class="headerlink" title="字符串方法"></a>字符串方法</h3><p>length 属性返回字符串的长度：<br>indexOf() 方法返回字符串中指定文本首次出现的索引（位置）<br>lastIndexOf() 方法返回指定文本在字符串中最后一次出现的索引<br>如果未找到文本， indexOf() 和 lastIndexOf() 均返回 -1<br>两种方法都接受作为检索起始位置的第二个参数,是起始位置</p>
+<p>search() 方法搜索特定值的字符串，并返回匹配的位置<br>这两种方法是不相等的。区别在于：</p>
+<pre><code>search() 方法无法设置第二个开始位置参数。
+indexOf() 方法无法设置更强大的搜索值（正则表达式）。
+</code></pre>
+<h4 id="提取部分字符串"><a href="#提取部分字符串" class="headerlink" title="提取部分字符串"></a>提取部分字符串</h4><p>有三种提取部分字符串的方法：</p>
+<pre><code>slice(start, end) 
+slice() 提取字符串的某个部分并在新字符串中返回被提取的部分。
+该方法设置两个参数：起始索引（开始位置），终止索引（结束位置）。
+
+substring(start, end)
+substr(start, length)
+
+substring() 方法
+</code></pre>
+<p>substring() 类似于 slice()。</p>
+<p>不同之处在于 substring() 无法接受负的索引。</p>
+<p>substr() 方法</p>
+<p>substr() 类似于 slice()。</p>
+<p>不同之处在于第二个参数规定被提取部分的长度。</p>
+<h4 id="替换字符串内容"><a href="#替换字符串内容" class="headerlink" title="替换字符串内容"></a>替换字符串内容</h4><p>replace() 方法用另一个值替换在字符串中指定的值：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">str = &quot;Please visit Microsoft!&quot;;</span><br><span class="line">var n = str.replace(&quot;Microsoft&quot;, &quot;W3School&quot;);</span><br></pre></td></tr></table></figure>
+<p>默认地，<code>replace()</code> 只替换首个匹配<br>如需执行大小写不敏感的替换，请使用正则表达式 &#x2F;i（大小写不敏感）<br>如需替换所有匹配，请使用正则表达式的 g 标志（用于全局搜索）</p>
+<h3 id="转换为大写和小写"><a href="#转换为大写和小写" class="headerlink" title="转换为大写和小写"></a>转换为大写和小写</h3><p>通过 <code>toUpperCase()</code> 把字符串转换为大写<br>通过 <code>toLowerCase()</code> 把字符串转换为小写：</p>
+<figure class="highlight plaintext"><figcaption><span>连接两个或多个字符串：</span></figcaption><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">trim() 方法删除字符串两端的空白符：</span><br><span class="line">### 提取字符串字符</span><br><span class="line">charAt() 方法返回字符串中指定下标（位置）的字符串：</span><br><span class="line"></span><br><span class="line">### 把字符串转换为数组</span><br><span class="line">可以通过``` split()``` 将字符串转换为数组：</span><br></pre></td></tr></table></figure>
+<p>var txt &#x3D; “a,b,c,d,e”;   &#x2F;&#x2F; 字符串<br>txt.split(“,”);          &#x2F;&#x2F; 用逗号分隔<br>txt.split(“ “);          &#x2F;&#x2F; 用空格分隔<br>txt.split(“|”);          &#x2F;&#x2F; 用竖线分隔</p>
+<p>&#96;&#96;&#96;</p>
+<h3 id="parseInt-方法"><a href="#parseInt-方法" class="headerlink" title="parseInt() 方法"></a>parseInt() 方法</h3><p><code>parseInt()</code> 解析一段字符串并返回数值。允许空格。只返回首个数字</p>
+<h3 id="parseFloat-方法"><a href="#parseFloat-方法" class="headerlink" title="parseFloat() 方法"></a>parseFloat() 方法</h3><p><code>parseFloat()</code> 解析一段字符串并返回数值。允许空格。只返回首个数字：</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>JS</tag>
       </tags>
   </entry>
   <entry>
