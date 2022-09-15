@@ -182,18 +182,6 @@
       </tags>
   </entry>
   <entry>
-    <title>HTML5知识记录</title>
-    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p>标签 	描述</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>前端基础</category>
-      </categories>
-      <tags>
-        <tag>HTML5</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>JSON记忆</title>
     <url>/2022/09/13/LESS%E7%94%A8%E6%B3%95/</url>
     <content><![CDATA[<h3 id="JSON-数据类型"><a href="#JSON-数据类型" class="headerlink" title="JSON 数据类型"></a>JSON 数据类型</h3><h4 id="有效的数据类型"><a href="#有效的数据类型" class="headerlink" title="有效的数据类型"></a>有效的数据类型</h4><p>在 JSON 中，值必须是以下数据类型之一：</p>
@@ -230,10 +218,51 @@ undefined
       </tags>
   </entry>
   <entry>
+    <title>HTML5知识记录</title>
+    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>标签 	描述</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>前端基础</category>
+      </categories>
+      <tags>
+        <tag>HTML5</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Linux</title>
     <url>/2022/09/15/Linux/</url>
-    <content><![CDATA[<h4 id="1、查找文件"><a href="#1、查找文件" class="headerlink" title="1、查找文件"></a>1、查找文件</h4><p>find &#x2F; -name filename.txt 根据名称查询</p>
+    <content><![CDATA[<h4 id="1、查找文件"><a href="#1、查找文件" class="headerlink" title="1、查找文件"></a>1、查找文件</h4><p><code>find / -name filename.txt</code> 根据名称查询</p>
+<h4 id="2、查看一个程序是否运行"><a href="#2、查看一个程序是否运行" class="headerlink" title="2、查看一个程序是否运行"></a>2、查看一个程序是否运行</h4><p><code>ps -ef|grep tomcat </code>查看所有有关tomcat的进程</p>
+<h4 id="3、终止线程"><a href="#3、终止线程" class="headerlink" title="3、终止线程"></a>3、终止线程</h4><p><code>kill -9 19979</code> 终止线程号位19979的进程</p>
+<h4 id="4、查看文件，包含隐藏文件"><a href="#4、查看文件，包含隐藏文件" class="headerlink" title="4、查看文件，包含隐藏文件"></a>4、查看文件，包含隐藏文件</h4><p><code>ls -al</code></p>
+<h4 id="5、当前目录"><a href="#5、当前目录" class="headerlink" title="5、当前目录"></a>5、当前目录</h4><p><code>pwd</code></p>
+<h4 id="6、复制文件"><a href="#6、复制文件" class="headerlink" title="6、复制文件"></a>6、复制文件</h4><p><code> cp file.txt /tmp/</code> 复制file.txt文件到tmp目录</p>
+<h4 id="7、创建目录"><a href="#7、创建目录" class="headerlink" title="7、创建目录"></a>7、创建目录</h4><p><code>mkdir newfolder</code></p>
+<h4 id="8、删除目录"><a href="#8、删除目录" class="headerlink" title="8、删除目录"></a>8、删除目录</h4><p><code>rmdir deleteEmptyFolder </code> 删除空目录<br><code>rmdir -rf deleteFile</code>递归删除目录中所有内容</p>
+<h4 id="9、移动文件"><a href="#9、移动文件" class="headerlink" title="9、移动文件"></a>9、移动文件</h4><p><code> mv /temp/movefile /targetFolder</code></p>
+<h4 id="10、重命名"><a href="#10、重命名" class="headerlink" title="10、重命名"></a>10、重命名</h4><p><code>mv oldNameFile newNameFile</code></p>
+<h4 id="11、切换用户"><a href="#11、切换用户" class="headerlink" title="11、切换用户"></a>11、切换用户</h4><p><code> su -username</code></p>
+<h4 id="12、修改文件夹权限"><a href="#12、修改文件夹权限" class="headerlink" title="12、修改文件夹权限"></a>12、修改文件夹权限</h4><p><code>chmod 777</code></p>
+<h4 id="13、压缩文件"><a href="#13、压缩文件" class="headerlink" title="13、压缩文件"></a>13、压缩文件</h4><p><code>tar -czf test.tar.gz</code></p>
+<h4 id="14、解压文件"><a href="#14、解压文件" class="headerlink" title="14、解压文件"></a>14、解压文件</h4><p><code>tar -xvzf test.tar.gz</code></p>
+<h4 id="15、查看文件头10行"><a href="#15、查看文件头10行" class="headerlink" title="15、查看文件头10行"></a>15、查看文件头10行</h4><p><code>head -n 10 example.txt</code></p>
+<h4 id="16、查看文件尾部10行"><a href="#16、查看文件尾部10行" class="headerlink" title="16、查看文件尾部10行"></a>16、查看文件尾部10行</h4><p><code> tail -n 10 example.txt</code></p>
+<h4 id="17、查看日志类型文件"><a href="#17、查看日志类型文件" class="headerlink" title="17、查看日志类型文件"></a>17、查看日志类型文件</h4><p><code>tail -f exmaple.log</code></p>
+<h4 id="18、使用超级管理员身份执行命令"><a href="#18、使用超级管理员身份执行命令" class="headerlink" title="18、使用超级管理员身份执行命令"></a>18、使用超级管理员身份执行命令</h4><p><code>sudo rm a.txt</code></p>
+<h4 id="19、查看端口占用情况"><a href="#19、查看端口占用情况" class="headerlink" title="19、查看端口占用情况"></a>19、查看端口占用情况</h4><p><code>netstat -tln|grep 8080</code></p>
+<h4 id="20、查看端口哪个程序在用"><a href="#20、查看端口哪个程序在用" class="headerlink" title="20、查看端口哪个程序在用"></a>20、查看端口哪个程序在用</h4><p><code> lsof -i|8080</code></p>
+<h4 id="21、查看进程"><a href="#21、查看进程" class="headerlink" title="21、查看进程"></a>21、查看进程</h4><p><code>ps -ef|grep xxxx</code><br><code>ps aux </code> 查看所有进程</p>
+<h4 id="22、以树状图列出目标的内容"><a href="#22、以树状图列出目标的内容" class="headerlink" title="22、以树状图列出目标的内容"></a>22、以树状图列出目标的内容</h4><p><code>tree a</code></p>
+<h4 id="23、文件下载"><a href="#23、文件下载" class="headerlink" title="23、文件下载"></a>23、文件下载</h4><p><code> wget http://file.tgz</code></p>
+<h4 id="24、网络检测"><a href="#24、网络检测" class="headerlink" title="24、网络检测"></a>24、网络检测</h4><p><code>ping www.baidu.com </code></p>
+<h4 id="25、打印信息"><a href="#25、打印信息" class="headerlink" title="25、打印信息"></a>25、打印信息</h4><p><code>echo $JAVA_HOME </code> 打印java home 的环境变量</p>
+<h4 id="26、java-常用命令"><a href="#26、java-常用命令" class="headerlink" title="26、java 常用命令"></a>26、java 常用命令</h4><p><code>nohup java -jar ruoyi-admin.jar &gt;logs.txt &amp;  </code><br>启动若依 输出log</p>
+<h4 id="27、重启命令-关机"><a href="#27、重启命令-关机" class="headerlink" title="27、重启命令,关机"></a>27、重启命令,关机</h4><p><code>shutdown -h now</code> 关机<br><code>reboot</code> 重启</p>
 ]]></content>
+      <categories>
+        <category>面试</category>
+      </categories>
       <tags>
         <tag>Linux</tag>
       </tags>
@@ -340,6 +369,46 @@ undefined
       </categories>
       <tags>
         <tag>Vue,面试题</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>localStorage存数据</title>
+    <url>/2022/09/08/localStorage%E5%AD%98%E6%95%B0%E6%8D%AE/</url>
+    <content><![CDATA[<p>在   localStorage.setItem(“case_reason”,JSON.stringify(result.data) )存入的数据都是为字段串</p>
+<p>取得时候如果是数组可以用 JSON.parse(localStorage.setItem(“case_reason”)) 这样就可以forEach、.map了</p>
+]]></content>
+      <categories>
+        <category>开发</category>
+      </categories>
+      <tags>
+        <tag>开发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HTML 速查列表</title>
+    <url>/2022/09/09/%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E4%B8%80%E4%B8%8B%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86/</url>
+    <content><![CDATA[<h2 id="HTML-速查列表"><a href="#HTML-速查列表" class="headerlink" title="HTML 速查列表"></a>HTML 速查列表</h2><h3 id="HTML-基本文档"><a href="#HTML-基本文档" class="headerlink" title="HTML 基本文档"></a>HTML 基本文档</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;文档标题&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">可见文本...</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;    </span><br></pre></td></tr></table></figure>
+<h3 id="基本标签（Basic-Tags）"><a href="#基本标签（Basic-Tags）" class="headerlink" title="基本标签（Basic Tags）"></a>基本标签（Basic Tags）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;h1&gt;最大的标题&lt;/h1&gt;</span><br><span class="line">&lt;h2&gt; . . . &lt;/h2&gt;</span><br><span class="line">&lt;h3&gt; . . . &lt;/h3&gt;</span><br><span class="line">&lt;h4&gt; . . . &lt;/h4&gt;</span><br><span class="line">&lt;h5&gt; . . . &lt;/h5&gt;</span><br><span class="line">&lt;h6&gt;最小的标题&lt;/h6&gt;</span><br><span class="line"> </span><br><span class="line">&lt;p&gt;这是一个段落。&lt;/p&gt;</span><br><span class="line">&lt;br&gt; （换行）</span><br><span class="line">&lt;hr&gt; （水平线）</span><br><span class="line">&lt;!-- 这是注释 --&gt;</span><br></pre></td></tr></table></figure>
+
+<h3 id="文本格式化（Formatting）"><a href="#文本格式化（Formatting）" class="headerlink" title="文本格式化（Formatting）"></a>文本格式化（Formatting）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;b&gt;粗体文本&lt;/b&gt;</span><br><span class="line">&lt;code&gt;计算机代码&lt;/code&gt;</span><br><span class="line">&lt;em&gt;强调文本&lt;/em&gt;</span><br><span class="line">&lt;i&gt;斜体文本&lt;/i&gt;</span><br><span class="line">&lt;kbd&gt;键盘输入&lt;/kbd&gt; </span><br><span class="line">&lt;pre&gt;预格式化文本&lt;/pre&gt;</span><br><span class="line">&lt;small&gt;更小的文本&lt;/small&gt;</span><br><span class="line">&lt;strong&gt;重要的文本&lt;/strong&gt;</span><br><span class="line"> </span><br><span class="line">&lt;abbr&gt; （缩写）</span><br><span class="line">&lt;address&gt; （联系信息）</span><br><span class="line">&lt;bdo&gt; （文字方向）</span><br><span class="line">&lt;blockquote&gt; （从另一个源引用的部分）</span><br><span class="line">&lt;cite&gt; （工作的名称）</span><br><span class="line">&lt;del&gt; （删除的文本）</span><br><span class="line">&lt;ins&gt; （插入的文本）</span><br><span class="line">&lt;sub&gt; （下标文本）</span><br><span class="line">&lt;sup&gt; （上标文本）</span><br></pre></td></tr></table></figure>
+<h3 id="链接（Links）"><a href="#链接（Links）" class="headerlink" title="链接（Links）"></a>链接（Links）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">普通的链接：&lt;a href=&quot;http://www.example.com/&quot;&gt;链接文本&lt;/a&gt;</span><br><span class="line">图像链接： &lt;a href=&quot;http://www.example.com/&quot;&gt;&lt;img src=&quot;URL&quot; alt=&quot;替换文本&quot;&gt;&lt;/a&gt;</span><br><span class="line">邮件链接： &lt;a href=&quot;mailto:webmaster@example.com&quot;&gt;发送e-mail&lt;/a&gt;</span><br><span class="line">书签：</span><br><span class="line">&lt;a id=&quot;tips&quot;&gt;提示部分&lt;/a&gt;</span><br><span class="line">&lt;a href=&quot;#tips&quot;&gt;跳到提示部分&lt;/a&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="图片（Images）"><a href="#图片（Images）" class="headerlink" title="图片（Images）"></a>图片（Images）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img loading=&quot;lazy&quot; src=&quot;URL&quot; alt=&quot;替换文本&quot; height=&quot;42&quot; width=&quot;42&quot;&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="样式-x2F-区块（Styles-x2F-Sections）"><a href="#样式-x2F-区块（Styles-x2F-Sections）" class="headerlink" title="样式&#x2F;区块（Styles&#x2F;Sections）"></a>样式&#x2F;区块（Styles&#x2F;Sections）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style type=&quot;text/css&quot;&gt;</span><br><span class="line">h1 &#123;color:red;&#125;</span><br><span class="line">p &#123;color:blue;&#125;</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;div&gt;文档中的块级元素&lt;/div&gt;</span><br><span class="line">&lt;span&gt;文档中的内联元素&lt;/span&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;ul&gt;</span><br><span class="line">    &lt;li&gt;项目&lt;/li&gt;</span><br><span class="line">    &lt;li&gt;项目&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;ol&gt;</span><br><span class="line">    &lt;li&gt;第一项&lt;/li&gt;</span><br><span class="line">    &lt;li&gt;第二项&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="定义列表"><a href="#定义列表" class="headerlink" title="定义列表"></a>定义列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;dl&gt;</span><br><span class="line">  &lt;dt&gt;项目 1&lt;/dt&gt;</span><br><span class="line">    &lt;dd&gt;描述项目 1&lt;/dd&gt;</span><br><span class="line">  &lt;dt&gt;项目 2&lt;/dt&gt;</span><br><span class="line">    &lt;dd&gt;描述项目 2&lt;/dd&gt;</span><br><span class="line">&lt;/dl&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="表格（Tables）"><a href="#表格（Tables）" class="headerlink" title="表格（Tables）"></a>表格（Tables）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;table border=&quot;1&quot;&gt;</span><br><span class="line">  &lt;tr&gt;</span><br><span class="line">    &lt;th&gt;表格标题&lt;/th&gt;</span><br><span class="line">    &lt;th&gt;表格标题&lt;/th&gt;</span><br><span class="line">  &lt;/tr&gt;</span><br><span class="line">  &lt;tr&gt;</span><br><span class="line">    &lt;td&gt;表格数据&lt;/td&gt;</span><br><span class="line">    &lt;td&gt;表格数据&lt;/td&gt;</span><br><span class="line">  &lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="框架（Iframe）"><a href="#框架（Iframe）" class="headerlink" title="框架（Iframe）"></a>框架（Iframe）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;iframe src=&quot;demo_iframe.htm&quot;&gt;&lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="表单（Forms）"><a href="#表单（Forms）" class="headerlink" title="表单（Forms）"></a>表单（Forms）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;form action=&quot;demo_form.php&quot; method=&quot;post/get&quot;&gt;</span><br><span class="line">&lt;input type=&quot;text&quot; name=&quot;email&quot; size=&quot;40&quot; maxlength=&quot;50&quot;&gt;</span><br><span class="line">&lt;input type=&quot;password&quot;&gt;</span><br><span class="line">&lt;input type=&quot;checkbox&quot; checked=&quot;checked&quot;&gt;</span><br><span class="line">&lt;input type=&quot;radio&quot; checked=&quot;checked&quot;&gt;</span><br><span class="line">&lt;input type=&quot;submit&quot; value=&quot;Send&quot;&gt;</span><br><span class="line">&lt;input type=&quot;reset&quot;&gt;</span><br><span class="line">&lt;input type=&quot;hidden&quot;&gt;</span><br><span class="line">&lt;select&gt;</span><br><span class="line">&lt;option&gt;苹果&lt;/option&gt;</span><br><span class="line">&lt;option selected=&quot;selected&quot;&gt;香蕉&lt;/option&gt;</span><br><span class="line">&lt;option&gt;樱桃&lt;/option&gt;</span><br><span class="line">&lt;/select&gt;</span><br><span class="line">&lt;textarea name=&quot;comment&quot; rows=&quot;60&quot; cols=&quot;20&quot;&gt;&lt;/textarea&gt;</span><br><span class="line"> </span><br><span class="line">&lt;/form&gt;</span><br></pre></td></tr></table></figure>
+<h3 id="实体（Entities）"><a href="#实体（Entities）" class="headerlink" title="实体（Entities）"></a>实体（Entities）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&amp;lt; 等同于 &lt;</span><br><span class="line">&amp;gt; 等同于 &gt;</span><br><span class="line">&amp;#169; 等同于 ©</span><br><span class="line">&amp;nbsp; 等同于空格</span><br></pre></td></tr></table></figure>
+
+
+]]></content>
+      <categories>
+        <category>前端基础</category>
+      </categories>
+      <tags>
+        <tag>知识大全</tag>
       </tags>
   </entry>
   <entry>
@@ -506,46 +575,6 @@ substring() 方法
       </categories>
       <tags>
         <tag>JS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>localStorage存数据</title>
-    <url>/2022/09/08/localStorage%E5%AD%98%E6%95%B0%E6%8D%AE/</url>
-    <content><![CDATA[<p>在   localStorage.setItem(“case_reason”,JSON.stringify(result.data) )存入的数据都是为字段串</p>
-<p>取得时候如果是数组可以用 JSON.parse(localStorage.setItem(“case_reason”)) 这样就可以forEach、.map了</p>
-]]></content>
-      <categories>
-        <category>开发</category>
-      </categories>
-      <tags>
-        <tag>开发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HTML 速查列表</title>
-    <url>/2022/09/09/%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E4%B8%80%E4%B8%8B%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86/</url>
-    <content><![CDATA[<h2 id="HTML-速查列表"><a href="#HTML-速查列表" class="headerlink" title="HTML 速查列表"></a>HTML 速查列表</h2><h3 id="HTML-基本文档"><a href="#HTML-基本文档" class="headerlink" title="HTML 基本文档"></a>HTML 基本文档</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;文档标题&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">可见文本...</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;    </span><br></pre></td></tr></table></figure>
-<h3 id="基本标签（Basic-Tags）"><a href="#基本标签（Basic-Tags）" class="headerlink" title="基本标签（Basic Tags）"></a>基本标签（Basic Tags）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;h1&gt;最大的标题&lt;/h1&gt;</span><br><span class="line">&lt;h2&gt; . . . &lt;/h2&gt;</span><br><span class="line">&lt;h3&gt; . . . &lt;/h3&gt;</span><br><span class="line">&lt;h4&gt; . . . &lt;/h4&gt;</span><br><span class="line">&lt;h5&gt; . . . &lt;/h5&gt;</span><br><span class="line">&lt;h6&gt;最小的标题&lt;/h6&gt;</span><br><span class="line"> </span><br><span class="line">&lt;p&gt;这是一个段落。&lt;/p&gt;</span><br><span class="line">&lt;br&gt; （换行）</span><br><span class="line">&lt;hr&gt; （水平线）</span><br><span class="line">&lt;!-- 这是注释 --&gt;</span><br></pre></td></tr></table></figure>
-
-<h3 id="文本格式化（Formatting）"><a href="#文本格式化（Formatting）" class="headerlink" title="文本格式化（Formatting）"></a>文本格式化（Formatting）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;b&gt;粗体文本&lt;/b&gt;</span><br><span class="line">&lt;code&gt;计算机代码&lt;/code&gt;</span><br><span class="line">&lt;em&gt;强调文本&lt;/em&gt;</span><br><span class="line">&lt;i&gt;斜体文本&lt;/i&gt;</span><br><span class="line">&lt;kbd&gt;键盘输入&lt;/kbd&gt; </span><br><span class="line">&lt;pre&gt;预格式化文本&lt;/pre&gt;</span><br><span class="line">&lt;small&gt;更小的文本&lt;/small&gt;</span><br><span class="line">&lt;strong&gt;重要的文本&lt;/strong&gt;</span><br><span class="line"> </span><br><span class="line">&lt;abbr&gt; （缩写）</span><br><span class="line">&lt;address&gt; （联系信息）</span><br><span class="line">&lt;bdo&gt; （文字方向）</span><br><span class="line">&lt;blockquote&gt; （从另一个源引用的部分）</span><br><span class="line">&lt;cite&gt; （工作的名称）</span><br><span class="line">&lt;del&gt; （删除的文本）</span><br><span class="line">&lt;ins&gt; （插入的文本）</span><br><span class="line">&lt;sub&gt; （下标文本）</span><br><span class="line">&lt;sup&gt; （上标文本）</span><br></pre></td></tr></table></figure>
-<h3 id="链接（Links）"><a href="#链接（Links）" class="headerlink" title="链接（Links）"></a>链接（Links）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">普通的链接：&lt;a href=&quot;http://www.example.com/&quot;&gt;链接文本&lt;/a&gt;</span><br><span class="line">图像链接： &lt;a href=&quot;http://www.example.com/&quot;&gt;&lt;img src=&quot;URL&quot; alt=&quot;替换文本&quot;&gt;&lt;/a&gt;</span><br><span class="line">邮件链接： &lt;a href=&quot;mailto:webmaster@example.com&quot;&gt;发送e-mail&lt;/a&gt;</span><br><span class="line">书签：</span><br><span class="line">&lt;a id=&quot;tips&quot;&gt;提示部分&lt;/a&gt;</span><br><span class="line">&lt;a href=&quot;#tips&quot;&gt;跳到提示部分&lt;/a&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="图片（Images）"><a href="#图片（Images）" class="headerlink" title="图片（Images）"></a>图片（Images）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;img loading=&quot;lazy&quot; src=&quot;URL&quot; alt=&quot;替换文本&quot; height=&quot;42&quot; width=&quot;42&quot;&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="样式-x2F-区块（Styles-x2F-Sections）"><a href="#样式-x2F-区块（Styles-x2F-Sections）" class="headerlink" title="样式&#x2F;区块（Styles&#x2F;Sections）"></a>样式&#x2F;区块（Styles&#x2F;Sections）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;style type=&quot;text/css&quot;&gt;</span><br><span class="line">h1 &#123;color:red;&#125;</span><br><span class="line">p &#123;color:blue;&#125;</span><br><span class="line">&lt;/style&gt;</span><br><span class="line">&lt;div&gt;文档中的块级元素&lt;/div&gt;</span><br><span class="line">&lt;span&gt;文档中的内联元素&lt;/span&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;ul&gt;</span><br><span class="line">    &lt;li&gt;项目&lt;/li&gt;</span><br><span class="line">    &lt;li&gt;项目&lt;/li&gt;</span><br><span class="line">&lt;/ul&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;ol&gt;</span><br><span class="line">    &lt;li&gt;第一项&lt;/li&gt;</span><br><span class="line">    &lt;li&gt;第二项&lt;/li&gt;</span><br><span class="line">&lt;/ol&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="定义列表"><a href="#定义列表" class="headerlink" title="定义列表"></a>定义列表</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;dl&gt;</span><br><span class="line">  &lt;dt&gt;项目 1&lt;/dt&gt;</span><br><span class="line">    &lt;dd&gt;描述项目 1&lt;/dd&gt;</span><br><span class="line">  &lt;dt&gt;项目 2&lt;/dt&gt;</span><br><span class="line">    &lt;dd&gt;描述项目 2&lt;/dd&gt;</span><br><span class="line">&lt;/dl&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="表格（Tables）"><a href="#表格（Tables）" class="headerlink" title="表格（Tables）"></a>表格（Tables）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;table border=&quot;1&quot;&gt;</span><br><span class="line">  &lt;tr&gt;</span><br><span class="line">    &lt;th&gt;表格标题&lt;/th&gt;</span><br><span class="line">    &lt;th&gt;表格标题&lt;/th&gt;</span><br><span class="line">  &lt;/tr&gt;</span><br><span class="line">  &lt;tr&gt;</span><br><span class="line">    &lt;td&gt;表格数据&lt;/td&gt;</span><br><span class="line">    &lt;td&gt;表格数据&lt;/td&gt;</span><br><span class="line">  &lt;/tr&gt;</span><br><span class="line">&lt;/table&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="框架（Iframe）"><a href="#框架（Iframe）" class="headerlink" title="框架（Iframe）"></a>框架（Iframe）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;iframe src=&quot;demo_iframe.htm&quot;&gt;&lt;/iframe&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="表单（Forms）"><a href="#表单（Forms）" class="headerlink" title="表单（Forms）"></a>表单（Forms）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&lt;form action=&quot;demo_form.php&quot; method=&quot;post/get&quot;&gt;</span><br><span class="line">&lt;input type=&quot;text&quot; name=&quot;email&quot; size=&quot;40&quot; maxlength=&quot;50&quot;&gt;</span><br><span class="line">&lt;input type=&quot;password&quot;&gt;</span><br><span class="line">&lt;input type=&quot;checkbox&quot; checked=&quot;checked&quot;&gt;</span><br><span class="line">&lt;input type=&quot;radio&quot; checked=&quot;checked&quot;&gt;</span><br><span class="line">&lt;input type=&quot;submit&quot; value=&quot;Send&quot;&gt;</span><br><span class="line">&lt;input type=&quot;reset&quot;&gt;</span><br><span class="line">&lt;input type=&quot;hidden&quot;&gt;</span><br><span class="line">&lt;select&gt;</span><br><span class="line">&lt;option&gt;苹果&lt;/option&gt;</span><br><span class="line">&lt;option selected=&quot;selected&quot;&gt;香蕉&lt;/option&gt;</span><br><span class="line">&lt;option&gt;樱桃&lt;/option&gt;</span><br><span class="line">&lt;/select&gt;</span><br><span class="line">&lt;textarea name=&quot;comment&quot; rows=&quot;60&quot; cols=&quot;20&quot;&gt;&lt;/textarea&gt;</span><br><span class="line"> </span><br><span class="line">&lt;/form&gt;</span><br></pre></td></tr></table></figure>
-<h3 id="实体（Entities）"><a href="#实体（Entities）" class="headerlink" title="实体（Entities）"></a>实体（Entities）</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">&amp;lt; 等同于 &lt;</span><br><span class="line">&amp;gt; 等同于 &gt;</span><br><span class="line">&amp;#169; 等同于 ©</span><br><span class="line">&amp;nbsp; 等同于空格</span><br></pre></td></tr></table></figure>
-
-
-]]></content>
-      <categories>
-        <category>前端基础</category>
-      </categories>
-      <tags>
-        <tag>知识大全</tag>
       </tags>
   </entry>
   <entry>
