@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HTML5知识记录</title>
-    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
-    <content><![CDATA[<p>标签 	描述</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>前端基础</category>
-      </categories>
-      <tags>
-        <tag>HTML5</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>DOM</title>
     <url>/2022/09/13/DOM/</url>
     <content><![CDATA[<p>getElementById 方法 ，访问 HTML 元素最常用的方法是使用元素的 id。<br>innerHTML 属性 获取元素内容最简单的方法是使用 innerHTML 属性。</p>
@@ -194,6 +182,18 @@
       </tags>
   </entry>
   <entry>
+    <title>HTML5知识记录</title>
+    <url>/2022/09/09/HTML5%E7%9F%A5%E8%AF%86%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<p>标签 	描述</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;article&gt; 	定义页面独立的内容区域。</span><br><span class="line">&lt;aside&gt; 	定义页面的侧边栏内容。</span><br><span class="line">&lt;bdi&gt; 	        允许您设置一段文本，使其脱离其父元素的文本方向设置。</span><br><span class="line">&lt;command&gt; 	定义命令按钮，比如单选按钮、复选框或按钮</span><br><span class="line">&lt;details&gt; 	用于描述文档或文档某个部分的细节</span><br><span class="line">&lt;dialog&gt; 	定义对话框，比如提示框</span><br><span class="line">&lt;summary&gt; 	标签包含 details 元素的标题</span><br><span class="line">&lt;figure&gt; 	规定独立的流内容（图像、图表、照片、代码等等）。</span><br><span class="line">&lt;figcaption&gt; 	定义 &lt;figure&gt; 元素的标题</span><br><span class="line">&lt;footer&gt; 	定义 section 或 document 的页脚。</span><br><span class="line">&lt;header&gt; 	定义了文档的头部区域</span><br><span class="line">&lt;mark&gt; 	        定义带有记号的文本。</span><br><span class="line">&lt;meter&gt; 	定义度量衡。仅用于已知最大和最小值的度量。</span><br><span class="line">&lt;nav&gt; 	        定义导航链接的部分。</span><br><span class="line">&lt;progress&gt; 	定义任何类型的任务的进度。</span><br><span class="line">&lt;ruby&gt; 	        定义 ruby 注释（中文注音或字符）。</span><br><span class="line">&lt;rt&gt; 	        定义字符（中文注音或字符）的解释或发音。</span><br><span class="line">&lt;rp&gt; 	        在 ruby 注释中使用，定义不支持 ruby 元素的浏览器所显示的内容。</span><br><span class="line">&lt;section&gt; 	定义文档中的节（section、区段）。</span><br><span class="line">&lt;time&gt; 	        定义日期或时间。</span><br><span class="line">&lt;wbr&gt; 	        规定在文本中的何处适合添加换行符。 </span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>前端基础</category>
+      </categories>
+      <tags>
+        <tag>HTML5</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>JSON记忆</title>
     <url>/2022/09/13/LESS%E7%94%A8%E6%B3%95/</url>
     <content><![CDATA[<h3 id="JSON-数据类型"><a href="#JSON-数据类型" class="headerlink" title="JSON 数据类型"></a>JSON 数据类型</h3><h4 id="有效的数据类型"><a href="#有效的数据类型" class="headerlink" title="有效的数据类型"></a>有效的数据类型</h4><p>在 JSON 中，值必须是以下数据类型之一：</p>
@@ -273,6 +273,33 @@ undefined
       </categories>
       <tags>
         <tag>Linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>MYSQL</title>
+    <url>/2022/09/15/MYSQL/</url>
+    <content><![CDATA[<h4 id="查询"><a href="#查询" class="headerlink" title="查询"></a>查询</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">SELECT column_name,column_name  FROM  table_name;</span><br></pre></td></tr></table></figure>
+<h4 id="单独查询"><a href="#单独查询" class="headerlink" title="单独查询"></a>单独查询</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">select distinct colunm_name from table_name ;</span><br></pre></td></tr></table></figure>
+<h4 id="条件查询"><a href="#条件查询" class="headerlink" title="条件查询"></a>条件查询</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">select colunm_name from where colunm_name = value;</span><br></pre></td></tr></table></figure>
+<h4 id="表中插入数据-字段名可以省略，但是要所有的字段都有值"><a href="#表中插入数据-字段名可以省略，但是要所有的字段都有值" class="headerlink" title="表中插入数据(字段名可以省略，但是要所有的字段都有值)"></a>表中插入数据(字段名可以省略，但是要所有的字段都有值)</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">insert into table_name (colunm1,colunm2) values (value1,value2);</span><br></pre></td></tr></table></figure>
+<h4 id="修改表中数据"><a href="#修改表中数据" class="headerlink" title="修改表中数据"></a>修改表中数据</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">update table_name set colunm = value where some_colunm=some_value;</span><br></pre></td></tr></table></figure>
+<h4 id="删除表中数据"><a href="#删除表中数据" class="headerlink" title="删除表中数据"></a>删除表中数据</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">delete from table_name where some_name = some_value;</span><br></pre></td></tr></table></figure>
+<h4 id="查询多少条数据"><a href="#查询多少条数据" class="headerlink" title="查询多少条数据"></a>查询多少条数据</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">select * from tabla_name limit= number;</span><br></pre></td></tr></table></figure>
+
+<h4 id="like查询"><a href="#like查询" class="headerlink" title="like查询"></a>like查询</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">select * from table_name where some_name like &#x27;%xxx%&#x27;;</span><br></pre></td></tr></table></figure>
+<h4 id="between用法"><a href="#between用法" class="headerlink" title="between用法"></a>between用法</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">select * from table_name where colunm_name between value1 and value2 ;</span><br></pre></td></tr></table></figure>
+<h3 id="DML语句"><a href="#DML语句" class="headerlink" title="DML语句"></a>DML语句</h3><p>DML(Data Manipulation Language)**数据操纵语言，对数据库中的数据进行一些简单操作，如   insert、delete、update、select等。DML操作是可以手动控制事务的开启、提交和回滚的。</p>
+<h3 id="DDL语句"><a href="#DDL语句" class="headerlink" title="DDL语句"></a>DDL语句</h3><p>DDL(Data Definition Language)*<em>数据定义语言，对数据库中的某些对象(例如database、table)进行管理，如</em>create、alter和drop****。DDL操作是隐性提交的，不能rollback。</p>
+<h4 id="创建表"><a href="#创建表" class="headerlink" title="创建表"></a>创建表</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">create table table_name (colunm_name1 data_type(size),colunm_name2 data_type(size))</span><br></pre></td></tr></table></figure>
+<h4 id="删除表"><a href="#删除表" class="headerlink" title="删除表"></a>删除表</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">drop table table_name </span><br></pre></td></tr></table></figure>
+<h4 id="删除数据库"><a href="#删除数据库" class="headerlink" title="删除数据库"></a>删除数据库</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">drop database database_name</span><br></pre></td></tr></table></figure>
+<h4 id="新增列"><a href="#新增列" class="headerlink" title="新增列"></a>新增列</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">alter table_name add colunm_name data_type</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>MYSQL</category>
+      </categories>
+      <tags>
+        <tag>MYSQL</tag>
       </tags>
   </entry>
   <entry>
@@ -559,17 +586,6 @@ substring() 方法
       </tags>
   </entry>
   <entry>
-    <title>第一篇博客</title>
-    <url>/2022/09/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h4 id="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"><a href="#换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。" class="headerlink" title="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"></a>换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。</h4>]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>HTML 速查列表</title>
     <url>/2022/09/09/%E5%87%86%E5%A4%87%E6%95%B4%E7%90%86%E4%B8%80%E4%B8%8B%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86/</url>
     <content><![CDATA[<h2 id="HTML-速查列表"><a href="#HTML-速查列表" class="headerlink" title="HTML 速查列表"></a>HTML 速查列表</h2><h3 id="HTML-基本文档"><a href="#HTML-基本文档" class="headerlink" title="HTML 基本文档"></a>HTML 基本文档</h3><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">&lt;!DOCTYPE html&gt;</span><br><span class="line">&lt;html&gt;</span><br><span class="line">&lt;head&gt;</span><br><span class="line">&lt;title&gt;文档标题&lt;/title&gt;</span><br><span class="line">&lt;/head&gt;</span><br><span class="line">&lt;body&gt;</span><br><span class="line">可见文本...</span><br><span class="line">&lt;/body&gt;</span><br><span class="line">&lt;/html&gt;    </span><br></pre></td></tr></table></figure>
@@ -594,6 +610,17 @@ substring() 方法
       </categories>
       <tags>
         <tag>知识大全</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第一篇博客</title>
+    <url>/2022/09/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h4 id="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"><a href="#换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。" class="headerlink" title="换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。"></a>换成hexo写博客了，学的东西太多了需要找个记录知识的地方。用博客园记录觉得不够灵活，正好尝试复习一下Markdown语法。</h4>]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>日常</tag>
       </tags>
   </entry>
 </search>
